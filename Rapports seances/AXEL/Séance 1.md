@@ -1,9 +1,9 @@
-# //Planning de la séance : //
+# // Planning de la séance //
 
 J'avais prévu lors de cette séance d'éffectuer les branchements et le code arduino afin d'afficher l'heure du module RTC 
 sur l'écran LCD .
 
-# //Déroulement de la séance ://
+# // Déroulement de la séance //
 
 La séance s'est dans l'ensemble bien déroulée j'ai été dans les temps malgré un "bug" du module qui ne mettait pas à jour
 l'heure et la date (resté bloqué sur la date et heure de la semaine dernière).
