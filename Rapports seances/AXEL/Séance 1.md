@@ -14,7 +14,7 @@ J'ai ensuite effectué les branchements de l'écran LCD et modifié le code (à 
 du module RTC pour que l'heure soit affiché sur l'écran et actualisée toute les secondes.
 Voici le code :
 
-`#include <Wire.h>    // Bibliothèque pour l'I2C
+`#include <Wire.h>    // Bibliothèque pour l'I2C`
 #include "RTClib.h"  // Bibliothèque pour le module RTC
 #include <LiquidCrystal.h> // Bibliothèque pour l'écran
 
@@ -96,7 +96,7 @@ String Vers2Chiffres(byte nombre) {
   if(nombre < 10)
     resultat = "0";
   return resultat += String(nombre,DEC);  
-}`
+}
 
 Le code permet d'afficher la date et l'heure sous la forme suivante (les branchements sont brouillons, cela est provisoir ) : VEN 14/12/2018
               HH:MM:SS (heure minutes secondes)
