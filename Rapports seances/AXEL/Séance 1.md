@@ -39,7 +39,7 @@ void setup(void) {
   // pour les montages suivant il ne faut surtout PAS la mettre, sans à chaque démarrage 
   // le module se réinitialisera à la date et heure de compilation
   
-  DateTime dt = DateTime(__DATE__, __TIME__);
+  DateTime dt = DateTime(__ __DATE__ __,__ __TIME__ __);
   RTC.adjust(dt);
   
 }
