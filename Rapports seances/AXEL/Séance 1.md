@@ -14,7 +14,7 @@ J'ai ensuite effectué les branchements de l'écran LCD et modifié le code (à 
 du module RTC pour que l'heure soit affiché sur l'écran et actualisée toute les secondes.
 Voici le code :
 
-`#include <Wire.h>    // Bibliothèque pour l'I2C
+<pre><code>#include <Wire.h>    // Bibliothèque pour l'I2C
 #include "RTClib.h"  // Bibliothèque pour le module RTC
 #include <LiquidCrystal.h> // Bibliothèque pour l'écran
 
@@ -65,7 +65,7 @@ String donne_jour_semaine(uint8_t j){
    case 6: return "SAM";
    default: return "   ";
   }
-}
+}</code></pre>
 
 // affiche la date et l'heure sur l'écran
 void affiche_date_heure(DateTime datetime){
