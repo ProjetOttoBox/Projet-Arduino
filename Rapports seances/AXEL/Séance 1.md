@@ -11,7 +11,7 @@ Je suis donc passé par un autre code arduino (trouvé sur internet) afin d'init
 celle de mon ordinateur.
 
 J'ai ensuite effectué les branchements de l'écran LCD et modifié le code (à l'aide d'autres codes trouvés sur internet) 
-du module RTC pour que l'heure soit affiché sur l'écran et actualisée toute les secondes.<br/>
+du module RTC pour que l'heure soit affichée sur l'écran et actualisée toute les secondes.<br/>
 Voici le code :
 
 <pre><code>#include <Wire.h>    // Bibliothèque pour l'I2C
