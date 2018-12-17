@@ -1,4 +1,5 @@
-#//Déroulement de la séance//
+# //Déroulement de la séance//
+
 La séance d'aujourd'hui a était principalement concue autour de deux points de notre projet. 
 
 Le premier était une préréalisation de la boîte finale (support physique).
@@ -12,7 +13,7 @@ Le second était l'utilisation d'un nouveau logiciel.
   j'ai réalisé une premiere application basique permettant d'activer et d'ettiendre une led avec un bouton tactile, et j'ai également ajouté 
   une connection bluetooth.
   
-  #//Code//
+ # //Code//
  Voici le code permettant de faire le liens avec arduino, MIT et le telephone: 
  
  #include <SoftwareSerial.h>
