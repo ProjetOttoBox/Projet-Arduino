@@ -14,9 +14,10 @@ Le second était l'utilisation d'un nouveau logiciel.
   une connection bluetooth.
   
  # //Code//
- Voici le code permettant de faire le liens avec arduino, MIT et le telephone: 
+ Voici le code permettant de faire le liens avec arduino, MIT et le telephone:
  
- #include <SoftwareSerial.h>
+ 
+ <pre><code>#include <SoftwareSerial.h>
 #define RX 10
 #define TX 11
 #define led 9
@@ -45,4 +46,5 @@ void loop(){
     }
   }
 }
+</code></pre>
 ![image](https://raw.githubusercontent.com/ProjetOttoBox/Projet-Arduino/master/Rapports%20seances/HUGO/code.jpg)
