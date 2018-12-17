@@ -11,7 +11,7 @@ Je suis donc passé par un autre code arduino (trouvé sur internet) afin d'init
 celle de mon ordinateur.
 
 J'ai ensuite effectué les branchements de l'écran LCD et modifié le code (à l'aide d'autres codes trouvés sur internet) 
-du module RTC pour que l'heure soit affiché sur l'écran et actualisée toute les secondes.
+du module RTC pour que l'heure soit affiché sur l'écran et actualisée toute les secondes.<br/>
 Voici le code :
 
 <pre><code>#include <Wire.h>    // Bibliothèque pour l'I2C
@@ -65,7 +65,7 @@ String donne_jour_semaine(uint8_t j){
    case 6: return "SAM";
    default: return "   ";
   }
-}</code></pre>
+}
 
 // affiche la date et l'heure sur l'écran
 void affiche_date_heure(DateTime datetime){
@@ -96,7 +96,7 @@ String Vers2Chiffres(byte nombre) {
   if(nombre < 10)
     resultat = "0";
   return resultat += String(nombre,DEC);  
-}`
+}</code></pre>
 
 Le code permet d'afficher la date et l'heure sous la forme suivante (les branchements sont brouillons, cela est provisoir ) : VEN 14/12/2018
               HH:MM:SS (heure minutes secondes)
