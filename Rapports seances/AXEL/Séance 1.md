@@ -14,7 +14,7 @@ J'ai ensuite effectué les branchements de l'écran LCD et modifié le code (à 
 du module RTC pour que l'heure soit affichée sur l'écran et actualisée toute les secondes.<br/>
 Voici le code :
 
-<pre><code>#include <Wire.h>    // Bibliothèque pour l'I2C
+<pre><code>#include < Wire.h >    // Bibliothèque pour l'I2C
 #include "RTClib.h"  // Bibliothèque pour le module RTC
 #include <LiquidCrystal.h> // Bibliothèque pour l'écran
 
