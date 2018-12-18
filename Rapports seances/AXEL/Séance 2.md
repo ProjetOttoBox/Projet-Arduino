@@ -12,7 +12,7 @@ avec un ordinateur sous os windows.
 
 Durant le reste de la séance je me suis penché sur la transmission du texte par Bluetooth pour l'allumage des LED. </br>
 J'ai donc rajouté ce bloc de code via l'application MIT :
-![alt tag]()
+![alt tag](https://raw.githubusercontent.com/ProjetOttoBox/Projet-Arduino/master/Rapports%20seances/AXEL/Screen%20Shot%202018-12-18%20at%2016.30.13.png)
 
 La transmission via le "speech recognizer" de l'application MIT s'effectue bel et bien, le problème est que on ne reçoit pas encore
 une chaîne de caractère sur l'IDE Arduino.
