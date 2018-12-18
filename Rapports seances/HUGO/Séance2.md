@@ -12,3 +12,4 @@ Sur inventor la boite est longue a faire, je doit formée une pièce après l'au
 décider d'integrer a celle-ci.
 
 Voici un morceau d'une boite trouver en cours qui m'as donné l'idée de ce system en "kit"
+[!alt](https://github.com/ProjetOttoBox/Projet-Arduino/blob/master/Rapports%20seances/HUGO/photo.jpg)
