@@ -1,4 +1,4 @@
-// Compte Rendue de la semaine: // 
+# // Compte Rendue de la semaine: // 
 
 Durant la semaine j'ai travaillé sur la conception de la "boîte" de notre projet. Ainsi nous avons obté pour une boite de forme
 cubique de dimmensions 15*15*15. 
