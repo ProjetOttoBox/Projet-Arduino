@@ -16,7 +16,7 @@ Voici le code :
 
 <pre><code>#include < Wire.h >    // Bibliothèque pour l'I2C
 #include "RTClib.h"  // Bibliothèque pour le module RTC
-#include <LiquidCrystal.h> // Bibliothèque pour l'écran
+#include < LiquidCrystal.h > // Bibliothèque pour l'écran
 
 RTC_DS1307 RTC;      // Instance du module RTC de type DS1307
 LiquidCrystal lcd(2,3,4,5,6,7);
