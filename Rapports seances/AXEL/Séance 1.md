@@ -101,4 +101,4 @@ String Vers2Chiffres(byte nombre) {
 Le code permet d'afficher la date et l'heure sous la forme suivante (les branchements sont brouillons, cela est provisoir ) : VEN 14/12/2018
               HH:MM:SS (heure minutes secondes)
 
-![alt tag](https://raw.githubusercontent.com/ProjetOttoBox/Projet-Arduino/master/Rapports%20seances/AXEL/48387283_222946825298555_892021517188071424_n.jpg)
+![alt tag](https://raw.githubusercontent.com/ProjetOttoBox/Projet-Arduino/master/Ressources/48387283_222946825298555_892021517188071424_n.jpg)
