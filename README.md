@@ -6,6 +6,9 @@ OttoBox - La boîte connectée
 
 ![alt tag](https://raw.githubusercontent.com/ProjetOttoBox/Projet-Arduino/master/Ressources/Plannin_MAJ_14_12_2018.png)
 
+
+
 // MAJ du 07/01/2019 //
+
 
 ![alt tag](https://raw.githubusercontent.com/ProjetOttoBox/Projet-Arduino/master/Ressources/Planning_MAJ_07_01_2019.png)
