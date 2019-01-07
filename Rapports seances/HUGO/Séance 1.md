@@ -47,4 +47,4 @@ void loop(){
   }
 }
 </code></pre>
-![image](https://raw.githubusercontent.com/ProjetOttoBox/Projet-Arduino/master/Rapports%20seances/HUGO/code.jpg)
+![image](https://raw.githubusercontent.com/ProjetOttoBox/Projet-Arduino/master/Ressources/code.jpg)
