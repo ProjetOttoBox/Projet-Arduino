@@ -9,7 +9,7 @@ J'ai donc pu configurer et commencer la programmation de l'ESP.
 Notre ESP peut désormais se connecter à Internet et envoyer une requête "GET" au serveurs de OpenWeatherMap (site de météo).
 Pour rendre la récupération des données météo plkus facile et automatiques (mises à jour automatique des données) je suis passé par l'API que propose le site OpenWeatherMap. Cette API permety d'accèder au fichier JSON de la météo d'Antibes :
 
-<pre><code> {"coord":{"lon":-0.13,"lat":51.51},"weather":[{"id":300,"main":"Drizzle","description":"light intensity drizzle","icon":"09d"}],"base":"stations","main":{"temp":280.32,"pressure":1012,"humidity":81,"temp_min":279.15,"temp_max":281.15},"visibility":10000,"wind":{"speed":4.1,"deg":80},"clouds":{"all":90},"dt":1485789600,"sys":{"type":1,"id":5091,"message":0.0103,"country":"GB","sunrise":1485762037,"sunset":1485794875},"id":2643743,"name":"London","cod":200} </pre></code>
+<pre><code> {"coord":{"lon":-0.13,"lat":51.51},"weather":[{"id":300,"main":"Drizzle","description":"light intensity </br> drizzle","icon":"09d"}],"base":"stations","main":</br>{"temp":280.32,"pressure":1012,"humidity":81,"temp_min":279.15,"temp_max":281.15},"visibility":10000,"wind":</br>{"speed":4.1,"deg":80},"clouds":{"all":90},"dt":1485789600,"sys":</br>{"type":1,"id":5091,"message":0.0103,"country":"GB","sunrise":1485762037,"sunset":1485794875},"id":2643743,"name":"London","cod":200} </pre></code>
 
 Le code Arduino permet donc de récuperer ce fichier JSON (fichier de texte brute sous forme "d'arbres") et de le parcourir pour me renvoyer la "description" du temps, la température, ...
 
