@@ -16,9 +16,9 @@ Le code Arduino permet donc de récuperer ce fichier JSON (fichier de texte brut
 Voici le code présent dans l'ESP : 
 
 <pre><code> // Importation des librairies
-#include <WiFi.h>
-#include <HTTPClient.h>
-#include <ArduinoJson.h>
+#include < WiFi.h >
+#include < HTTPClient.h >
+#include < ArduinoJson.h >
 
 // Définition des constantes
 const char* SSID     = "SFR_DC78"; // Le nom de votre réseau Wifi
