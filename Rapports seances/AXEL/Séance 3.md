@@ -130,6 +130,6 @@ void loop()
   delay (5000000);
 } </pre></code>
 
-On voit dans le code ci-dessus que j'ai importé deux librairies, il s'agit de ArduinoJson et HTTPClient. La première permet d'analyser le fichier JSON pour récuperer les infos et la deuxième permet de construire et envoyer les requêtes HTTP grâce a des fopcntions simples (http.begin(), ...).
+On voit dans le code ci-dessus que j'ai importé deux librairies, il s'agit de ArduinoJson et HTTPClient. La première permet d'analyser le fichier JSON pour récuperer les infos et la deuxième permet de construire et envoyer les requêtes HTTP grâce a des fonctions simples (http.begin(), ...).
 
 Nous sommes également avec Hugo allés au FabLab afin de lancer l'impression 3D de la boîte. Nous devrions l'avoir en début de semaine prochaine, ce qui nous permettra d'y intégrer les premiers modules.
