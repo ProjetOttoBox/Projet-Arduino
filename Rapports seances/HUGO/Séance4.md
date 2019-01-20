@@ -6,3 +6,7 @@ Après avoir obtenu la carte arduino mega, j'ai essayé de faire fonctionner nos
 
 De plus je vous join le code mit de l'application bluetooth que nous vous avons présentée.
 ![Image](https://github.com/ProjetOttoBox/Projet-Arduino/blob/master/Ressources/Capture%20d’écran%202019-01-20%20à%2012.20.26.png)
+
+Dans ce code on peux voir différent block. Tous ces blocks permettent l'excution sans érreurs de l'application. Les premiers blocks du haut permette la connection bluetooth et l'affichage des differents bluetooth présent autour du téléphone. Ensuite un block permet d'associer chaque piece a un numero qui sera utilisé dans le programme que je vous ai transmit la semaine passé. Ce blocks fonctionne uniquement quand on appui sur le logo de reconnaissance vocale. Le blocks en bas a droite est une liste dans un menu déroulant montrant les differents fonctions de la boîte.
+
+Je vous join également différentes photo de notre boîte et du cablage.
