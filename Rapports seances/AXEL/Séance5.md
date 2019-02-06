@@ -7,6 +7,7 @@ pin dédiés à la communication carte-modules.
 
 [alt tag](https://raw.githubusercontent.com/ProjetOttoBox/Projet-Arduino/master/Ressources/51739620_319402441984273_8378919030521593856_n.jpg)
 
+
 J'ai donc de mon coté brancher le module RTC ainsi que l'écran LCD. J'ai également branché le module ESP aux deux ports 
 RX1 et TX1 de la carte Mega pour la communication ESP-Carte Arduino. Cette connexion permettra d'envoyer les données météo et 
 de les exploiter ensuite.
