@@ -12,7 +12,7 @@ J'ai donc de mon coté brancher le module RTC ainsi que l'écran LCD. J'ai égal
 RX1 et TX1 de la carte Mega pour la communication ESP-Carte Arduino. Cette connexion permettra d'envoyer les données météo et 
 de les exploiter ensuite.
 
-[image2](https://raw.githubusercontent.com/ProjetOttoBox/Projet-Arduino/master/Ressources/51793331_528393944334002_3422025174591995904_n.jpg
+[image2](https://raw.githubusercontent.com/ProjetOttoBox/Projet-Arduino/master/Ressources/51793331_528393944334002_3422025174591995904_n.jpg)
 
 L'ESP n'est toujours pas exploitable sur Mac OS, je n'ai donc pas pu tester la communication entre l'ESP et la carte Mega.
 Cependant les données météo sont toujours récupérées correctement. J'utilisais Parallel Desktop mais la periode d'essai
