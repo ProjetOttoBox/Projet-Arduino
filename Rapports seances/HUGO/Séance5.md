@@ -64,5 +64,8 @@ void loop() {
   delay(1000000);//the programm will send the play option each 100 seconds to the catalex chip
 }
 </code></pre>
+Nous avons également éffectuer les branchements sur notre nouvelle carte arduino. En effet ayant trop de cable a brancher deux cartes arduino nano ne suiffisaient pas a brancher l'intégralité de nos composants. Nous avons donc utilisé une carte arduino mega qui permet de connecter jusqu'a 50 port sur le numerique.
+
+Et enfin j'ai éssayé sans succés de faire en sorte que le module mp3 réponde lorsque nous envoyons une commande par bluetooth. Durant cette semaine j'essayerais de faire en sorte que cette fonctionalité soit disponible pour me concentré sur l'allumage a distance d'une télé.
 
 
