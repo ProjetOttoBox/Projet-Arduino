@@ -1,4 +1,4 @@
-#// Compte rendue de la séance 5//
+# // Compte rendue de la séance 5//
 
 Durant la séance avec l'aide de mr Masson j'ai finalisé les branchements du module mp3 et des hauts parleur. Le module mp3
 fonctionne a l'aide d'une carte micro sd qui s'inserre dans le module. A l'aide d'une bibliotheque disponible sur arduino, nous
