@@ -1,4 +1,4 @@
-# // Compte rendue de la séance7 // 
+# // Compte rendue de la séance 8 // 
 
 Durant la semaine passée j'ai programmer sur mit une nouvelle fenetre nous permettant d'avoir une telecomande pour allumer la télé.
 Ainsi maintenant sur notre application nous avons en plus des autres fonctionalités deja présentent la possibilité d'avoir une telecomande.
