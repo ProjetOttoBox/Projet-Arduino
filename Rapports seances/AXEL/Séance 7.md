@@ -1,6 +1,6 @@
 # // Déroulement de la Séance //
 
-Durant cette séance nous avons avec Hugo continuer le soudage des leds et nous les avons coller à la boite à la colle chaude.
+Durant cette séance nous avons avec Hugo continuer la soudure des leds et nous les avons coller à la boite à la colle chaude.
 Nous avons decider d'utiliser de la gaine thermorétractable au niveau des soudures des LEDs pour maintenir les cables et la 
 soudure entre eux. Cela permet également d'avoir un rendu plus propre.
 Par ailleurs durant les vacances scolaires nous avons imprimer de nouveau la boîte avec la modification pour l'écran.
